@@ -19,3 +19,7 @@
 .footer--recomendation li a{
     display: block;
 }
+
+.purch-wrap h1{
+    padding-right: 150px;
+}
