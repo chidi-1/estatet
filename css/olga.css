@@ -23,3 +23,15 @@
 .purch-wrap h1{
     padding-right: 150px;
 }
+
+.index_desc{
+    padding: 25px 30px 30px 30px;
+}
+
+.index_desc .big{
+    padding-right: 60px;
+}
+
+.index_desc ul li{
+    width: 48%;
+}
