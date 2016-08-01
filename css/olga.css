@@ -1,0 +1,21 @@
+.st_bg.st_bg_no-red{
+    background: url(/img/special_triple_no-red.png) 0 0 no-repeat;
+}
+
+.footer--recomendation{
+    display: block;
+    text-align: left;
+    margin-left: -20px;
+    padding: 20px 0;
+}
+
+.footer--recomendation li{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.footer--recomendation li a{
+    display: block;
+}
