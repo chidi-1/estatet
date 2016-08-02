@@ -35,3 +35,11 @@
 .index_desc ul li{
     width: 48%;
 }
+
+.index_desc.index_desc_no-bg{
+    background: transparent;
+}
+
+.index_desc.index_desc_no-bg:after{
+    background: url("../img/index_images_but_transparent.png") no-repeat 0 0;
+}
